@@ -270,3 +270,7 @@ def main_menu():
 
  
 main_menu()
+
+x = pygame
+if pygame> 12:
+    print('do not allow more than 3 players')
