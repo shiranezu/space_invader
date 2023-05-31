@@ -6,7 +6,7 @@ import random
 pygame.font.init()
 
 pygame.init()
-WIDTH, HEIGHT = 750, 750
+WIDTH, HEIGHT = 1080, 1080
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Shooter")
 
@@ -270,7 +270,8 @@ def main_menu():
 
  
 main_menu()
-
 x = pygame
 if pygame> 12:
     print('do not allow more than 3 players')
+
+
